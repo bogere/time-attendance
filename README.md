@@ -1,15 +1,13 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/mehedijaman/laravel-zkteco.svg?style=flat-square)](https://packagist.org/packages/mehedijaman/laravel-zkteco)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/mehedijaman/laravel-zkteco/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/mehedijaman/laravel-zkteco/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/mehedijaman/laravel-zkteco/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/mehedijaman/laravel-zkteco/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/mehedijaman/laravel-zkteco.svg?style=flat-square)](https://packagist.org/packages/mehedijaman/laravel-zkteco)
+[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+[![NPM License](https://img.shields.io/npm/l/all-contributors.svg?style=flat)](https://github.com/tterb/hyde/blob/master/LICENSE)
 
 ## Overview
 
-The Time attendance ZKTeco software provides an easy way to integrate ZKTeco biometric devices with your Laravel application. This package simplifies the process of connecting to ZKTeco devices, fetching attendance logs, and managing user data.
+The Time attendance ZKTeco software provides an easy way to integrate ZKTeco biometric devices with your electronjs application. This electronjs sample simplifies the process of connecting to ZKTeco devices, fetching attendance logs, and managing user data.
 
 ## Features
 
-- **Easy Integration:** Seamlessly connect your Laravel application with ZKTeco biometric devices.
+- **Easy Integration:** Seamlessly connect your electronjs or nodejs application with ZKTeco biometric devices.
 - **Attendance Management:** Fetch and manage attendance logs from connected devices.
 - **User Management:** Add, update, and remove users on the biometric device directly from your application.
 - **Real-time Data Sync:** Ensure that your application always has the latest attendance data.
@@ -32,3 +30,16 @@ npm install
 ## To deploy apllication in Windows
 
 1. npm run electron-pack
+
+## License
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+## Pull Requests
+
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+## Contributors
+
+[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)]()
